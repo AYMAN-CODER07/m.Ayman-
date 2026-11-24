@@ -1,0 +1,8 @@
+{
+  "name": "Arch3D COA",
+  "description": "Interactive 3D Computer Organization & Architecture learning app aligned with the CBCS syllabus, featuring rotatable 3D hardware models, animated cycle simulations, exam notes, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Arch3D COA</string>
+    <string name="nav_syllabus">Syllabus</string>
+    <string name="nav_lab_3d">3D Lab</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_qr_web">QR Web</string>
+    <string name="hero_title">CBCS Computer Architecture in 3D</string>
+    <string name="hero_subtitle">Interactive 2D Diagrams &amp; 3D Models • Units 0–V</string>
+    <string name="search_placeholder">Search K-Map, Gates, MUX, Flip-Flops, Bus, CPU...</string>
+    <string name="all_units">All Units</string>
+    <string name="mark_understood">Mark as Understood</string>
+    <string name="understood_badge">Mastered</string>
+    <string name="tab_parts">3D Flow</string>
+    <string name="tab_notes">CBCS Notes</string>
+    <string name="tab_exam">Exam Viva</string>
+    <string name="reset_camera">Reset View</string>
+    <string name="exploded_view">Explode</string>
+    <string name="labels_toggle">Labels</string>
+    <string name="wireframe_toggle">Wireframe</string>
+    <string name="empty_search_title">No matching CBCS topics</string>
+    <string name="empty_search_subtitle">Try searching for ALU, Pipelining, Cache, DMA, or Von Neumann.</string>
+</resources>
